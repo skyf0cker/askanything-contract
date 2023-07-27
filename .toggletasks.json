@@ -1,0 +1,9 @@
+{
+  "tasks": [
+    {
+      "name": "test contract",
+      "cmd": "npx hardhat test ; read _",
+      "close_on_exit": true
+    }
+  ]
+}
